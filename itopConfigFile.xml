@@ -1,0 +1,12 @@
+<configFile>
+	<itopConsultaPersona>
+		<user>adminapi</user>
+		<pass>adminapi01</pass>
+		<url></url>
+	</itopConsultaPersona>
+	<consultaInfoPolizaIns>
+		<clinteId>3101567982</clinteId>
+		<clientSecret>841fc960-8baa-05bf-5b21-62e42614e1d7</clientSecret>
+		<url></url>
+	</consultaInfoPolizaIns>
+</configFile>
